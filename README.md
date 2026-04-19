@@ -50,8 +50,8 @@ Advanced fragment pattern training project.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShenoudaIsaac&show_icons=true&theme=dark)
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Shenouda Isaac](https://www.linkedin.com/in/shenouda-isaac)
-- **Email:** shenouda.isaac@example.com
+- **LinkedIn:** [Shenouda Isaac]www.linkedin.com/in/shenouda-isaac-40683a335)
+- **Email:** shenoudaisaac54@gmail.com
 - **GitHub:** [@ShenoudaIsaac](https://github.com/ShenoudaIsaac)
 
 Feel free to reach out if you want to collaborate, discuss projects, or just chat about technology!
