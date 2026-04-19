@@ -9,14 +9,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - **Frameworks:** Android, Jetpack Compose, Fragment
 - **Tools:** Android Studio, Gradle
 
-### Backend & Web
-- **Languages:** Java, JavaScript, Python
-- **Frameworks:** Node.js
-- **Databases:** MySQL, MongoDB
-
 ### Development Tools
 - **Version Control:** Git, GitHub
-- **Other:** Docker, Firebase
+- **Other:**, Firebase
 
 ## 📱 Featured Projects
 
@@ -42,7 +37,6 @@ Advanced fragment pattern training project.
 
 ## 🎯 Interests
 - Android Development & Jetpack Compose
-- Full-Stack Web Development
 - Open-Source Contributions
 - Cloud Computing & Firebase
 
