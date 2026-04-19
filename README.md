@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hello, I'm Shenouda Isaac 👋
 
-<!--
-**ShenoudaIsaac/ShenoudaIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a strong background in Android development and full-stack applications. I love turning ideas into reality and am always eager to learn new technologies and enhance my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mobile Development
+- **Languages:** Kotlin, Java
+- **Frameworks:** Android, Jetpack Compose, Fragment
+- **Tools:** Android Studio, Gradle
+
+### Backend & Web
+- **Languages:** Java, JavaScript, Python
+- **Frameworks:** Node.js
+- **Databases:** MySQL, MongoDB
+
+### Development Tools
+- **Version Control:** Git, GitHub
+- **Other:** Docker, Firebase
+
+## 📱 Featured Projects
+
+### GPS Tracker
+Real-time GPS tracking application built with Kotlin and Android.
+[View Repository](https://github.com/ShenoudaIsaac/GPS-Tracker)
+
+### GymsAround
+Android application for training on new patterns. A comprehensive gym finder and training companion.
+[View Repository](https://github.com/ShenoudaIsaac/GymsAround)
+
+### Islami App
+Islamic learning application built with Kotlin.
+[View Repository](https://github.com/ShenoudaIsaac/Islami)
+
+### Meals App
+Meal discovery and management application.
+[View Repository](https://github.com/ShenoudaIsaac/Meals-App)
+
+### WhatsApp Fragment Training
+Advanced fragment pattern training project.
+[View Repository](https://github.com/ShenoudaIsaac/WhatsApp-Fragment-Training)
+
+## 🎯 Interests
+- Android Development & Jetpack Compose
+- Full-Stack Web Development
+- Open-Source Contributions
+- Cloud Computing & Firebase
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShenoudaIsaac&show_icons=true&theme=dark)
+
+## 📫 Let's Connect
+- **LinkedIn:** [Shenouda Isaac](https://www.linkedin.com/in/shenouda-isaac)
+- **Email:** shenouda.isaac@example.com
+- **GitHub:** [@ShenoudaIsaac](https://github.com/ShenoudaIsaac)
+
+Feel free to reach out if you want to collaborate, discuss projects, or just chat about technology!
