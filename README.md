@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=3DDC84&center=true&vCenter=true&width=720&lines=Android+Developer+%40+nWeave;Shipping+a+Bluetooth-connected+app+on+Google+Play;180+tests+%C2%B7+9+production+crash+fixes;Exploring+Android+Framework+%26+Automotive+OS" alt="Android Developer at nWeave" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=3DDC84&center=true&vCenter=true&width=720&lines=Android+Developer+%40+nWeave;Shipping+a+Bluetooth-connected+app+on+Google+Play;180+automated+tests+in+a+live+Google+Play+app;Exploring+Android+Framework+%26+Automotive+OS" alt="Android Developer at nWeave" />
 </p>
 
 <p align="center">
@@ -33,11 +33,11 @@ object Shenouda {
 ### Highlights
 
 - Introduced the **first automated tests** into a live Google Play app: **180 merged tests** (JUnit, Mockito, Robolectric, Espresso, Hilt) that exposed **3 real bugs**.
-- Shipped fixes for **9 production crashes** across **7 exception types**, including an **Android 15** platform incompatibility.
-- Tracked down a production crash caused by a **race between the UI thread and a game engine's render thread** (libGDX + Box2D).
 - **Main developer** of a premium **Workout Analysis** feature: sensor signal processing and squeeze detection aligned with the iOS app.
+- Tracked down a production crash caused by a **race between the UI thread and a game engine's render thread** (libGDX + Box2D).
 - Built **RideShare solo**: about 20 Jetpack Compose screens, **geohash ride matching** on Cloud Firestore, Google Maps and 3 REST APIs.
 - Hands-on with Android system components: **foreground services, BroadcastReceivers, exact alarms and runtime permissions**.
+- Debugged production crashes from Crashlytics, including an **Android 15 platform bug** (`IncompatibleClassChangeError` in `String.format`).
 
 ### Featured work
 
