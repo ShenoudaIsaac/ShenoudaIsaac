@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:14532d,100:3ddc84&height=210&section=header&text=Shenouda%20Isaac&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Android%20Developer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Java%20%E2%80%A2%20Jetpack%20Compose&descSize=18&descAlignY=58&animation=fadeIn" alt="Shenouda Isaac, Android Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:14532d,100:3ddc84&height=210&section=header&text=Shenouda%20Isaac&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Android%20Developer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Java%20%E2%80%A2%20Jetpack%20Compose&descSize=18&descAlignY=58" alt="Shenouda Isaac, Android Developer" width="100%" />
 </p>
 
 <p align="center">
