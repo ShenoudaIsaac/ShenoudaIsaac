@@ -17,15 +17,17 @@
 ### About me
 
 ```kotlin
-data class Developer(
-    val name: String = "Shenouda Isaac",
-    val role: String = "Android Developer @ nWeave",
-    val basedIn: String = "Egypt",
-    val speaks: List<String> = listOf("Kotlin", "Java"),
-    val shipping: String = "A Bluetooth-connected health app on Google Play",
-    val builtSolo: String = "RideShare, a Jetpack Compose ride-sharing app",
-    val learning: List<String> = listOf("Binder & AIDL", "AOSP", "Android Automotive OS", "NDK & JNI"),
-)
+object Shenouda {
+    val role = "Android Developer @ nWeave"
+    val basedIn = "Egypt"
+    val code = listOf("Kotlin", "Java")
+    val shipping = "Bluetooth-connected app on Google Play"
+    val builtSolo = "RideShare, a Jetpack Compose app"
+    val learning = listOf(
+        "Binder & AIDL", "AOSP",
+        "Android Automotive OS", "NDK & JNI",
+    )
+}
 ```
 
 ### Highlights
@@ -88,12 +90,13 @@ data class Developer(
 ### Journey
 
 ```text
-2023-12  > Started CS fundamentals: Harvard CS50, Java, OOP, data structures and algorithms
-2024-10  > Route Academy Android bootcamp: Kotlin, Android SDK, Jetpack Compose
+2023-12  > CS fundamentals: CS50, Java, OOP, algorithms
+2024-10  > Route Academy Android bootcamp (Kotlin, Compose)
 2025-03  > Joined nWeave as an Android Developer
-2025-06  > Built RideShare solo in Kotlin and Jetpack Compose
-2025-08  > Joined kGoal Boost: Java, Bluetooth LE, a live app on Google Play
-2026     > Testing, crash fixing, system components; now exploring Android Framework and Automotive
+2025-06  > Built RideShare solo (Kotlin, Jetpack Compose)
+2025-08  > kGoal Boost: Java, Bluetooth LE, Google Play
+2026     > Testing, crash fixing, system components
+           Next: Android Framework and Automotive OS
 ```
 
 ### Let's connect
